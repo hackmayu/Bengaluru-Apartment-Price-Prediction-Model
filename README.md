@@ -20,7 +20,8 @@ The app uses a **Linear Regression model** built with Python and Scikit-Learn, i
 
 > Example input form where users can estimate price based on area, BHK, bath, and location.
 
-![App Screenshot](Screenshot.png)
+<img width="1919" height="991" alt="Screenshot" src="https://github.com/user-attachments/assets/42697b60-d268-4d31-9b70-02a3a9b076b1" />
+
 
 ---
 
